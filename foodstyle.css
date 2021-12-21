@@ -41,14 +41,14 @@
     background-color: #e7e393;
   }
 
-  #checklist{
-    height: 250px;
-  }
-
   #step{
     background-color: #e7e393;
   }
 
   #text{
     background-color: #e7e39354;
+  }
+
+  footer{
+    background-color: #dd8d3d;
   }
