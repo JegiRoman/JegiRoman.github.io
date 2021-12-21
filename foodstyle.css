@@ -18,7 +18,7 @@
   }
   
   .topnav a.active {
-    background-color: #854d27;
+    background-color: #dd8d3d;
     color: white;
   }
 
@@ -28,4 +28,27 @@
 
   header{
       background-color: #dd8d3d;
+      position: fixed; top: 0;
+      width: 100%;
+      z-index: 100;
+  }
+
+  #recipe{
+    background-color: #e7e39354;
+  }
+
+  #recipeTitel{
+    background-color: #e7e393;
+  }
+
+  #checklist{
+    height: 250px;
+  }
+
+  #step{
+    background-color: #e7e393;
+  }
+
+  #text{
+    background-color: #e7e39354;
   }
