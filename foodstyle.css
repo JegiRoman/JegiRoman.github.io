@@ -41,8 +41,25 @@
     background-color: #e7e393;
   }
 
+  
   #step{
     background-color: #e7e393;
+    padding: 1px;
+    padding-left: 2%;
+    /* border: 1px solid black; */
+    width: 104%;
+    position: relative;
+    right: 15px;
+  }
+
+  #step8{
+    background-color: #e7e393;
+    padding: 1px;
+    padding-left: 2%;
+    /* border: 1px solid black; */
+    width: 108.5%;
+    position: relative;
+    right: 15px;
   }
 
   #text{
